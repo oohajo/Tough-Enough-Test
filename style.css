@@ -1,0 +1,29 @@
+.showOnScreen {
+    display: none;
+}
+
+#startQuiz {
+    background-color: blue;
+    color: white;
+    border: none;
+    height: 5vh;
+}
+
+.startBtnDiv {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+.startHeader {
+    line-height: 5.8rem;
+    margin: 0;
+    color: blue;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
